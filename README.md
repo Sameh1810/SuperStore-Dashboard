@@ -1,4 +1,4 @@
-#SuperStore-Dashboard-Excel
+# SuperStore-Dashboard-Excel
 ## Project Overview: Superstore Sales Dashboard
 
 ### Project Objective
